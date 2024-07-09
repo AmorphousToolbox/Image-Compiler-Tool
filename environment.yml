@@ -1,0 +1,12 @@
+name: a-env
+channels:
+- anaconda
+- conda-forge
+- defaults
+dependencies:
+- python=3.12.2
+- numpy=1.26.4
+- matplotlib=3.8.4
+- pyside6=6.7.2
+- scikit-image=0.23.2
+- opencv=4.10.0

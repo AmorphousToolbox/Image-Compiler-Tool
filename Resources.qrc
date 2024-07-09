@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>Resources/Icons/Add.png</file>
+    <file>Resources/Icons/Compile.png</file>
+    <file>Resources/Icons/Edge.png</file>
+    <file>Resources/Icons/Full_Amorphous_Toolbox_Logo_Short.png</file>
+    <file>Resources/Icons/Home.png</file>
+    <file>Resources/Icons/Line.png</file>
+    <file>Resources/Icons/Load.png</file>
+    <file>Resources/Icons/Move.png</file>
+    <file>Resources/Icons/Remove.png</file>
+    <file>Resources/Icons/Reset.png</file>
+    <file>Resources/Icons/Save.png</file>
+    <file>Resources/Icons/Single.png</file>
+    <file>Resources/Icons/Stack.png</file>
+    <file>Resources/Icons/Standard_Deviation.png</file>
+    <file>Resources/Icons/Swap.png</file>
+    <file>Resources/Icons/Trash.png</file>
+    <file>Resources/Icons/Zoom.png</file>
+  </qresource>
+</RCC>
